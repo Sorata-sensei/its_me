@@ -119,18 +119,6 @@ Informatics Engineering
 
 ---
 
-## Open Source & Contributions
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sorata-sensei&show_icons=true&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sorata-sensei&hide_border=true"/>
-
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
