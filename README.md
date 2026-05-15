@@ -182,7 +182,7 @@ GPA: **3.73**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sorata-sensei&theme=github-compact&hide_border=true"/>
 
 </div>
 
