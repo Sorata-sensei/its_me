@@ -170,9 +170,9 @@ GPA: **3.73**
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sorata-sensei&show_icons=true&theme=default&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorata-sensei&layout=compact&hide_border=true"/>
 
 </div>
 
