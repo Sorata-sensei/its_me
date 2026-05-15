@@ -1,184 +1,137 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:f2f2f2&height=250&section=header&text=Muhammad%20Anwar%20Fauzi&fontSize=45&fontColor=000000&animation=fadeIn&desc=Creative%20Engineer%20•%20Technical%20Lead%20•%20Lecturer&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Muhammad%20Anwar%20Fauzi&fontColor=000000&fontSize=42&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=26&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Building+Digital+Products+From+Scratch;Laravel+Fullstack+Developer;Former+Technical+Lead;Digital+Business+Lecturer;Creating+Aesthetic+Web+Experiences"/>
+### Full Stack Engineer • Former Technical Lead • Lecturer • Product Builder
+
+<img src="https://raw.githubusercontent.com/sorata-sensei/sorata-sensei/main/assets/profile.png" width="220" style="border-radius:50%;" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=24&pause=1000&color=000000&center=true&vCenter=true&width=850&lines=Building+Scalable+Products.;Teaching+Future+Developers.;Designing+Creative+Digital+Experiences."/>
 
 </div>
 
 ---
 
-# 👋 Hello World
+## About Me
 
 ```javascript
 const anwar = {
-  name: "Muhammad Anwar Fauzi",
-  title: "S.Kom., M.Kom.",
-  role: [
-    "Full Stack Developer",
-    "Technical Lead",
-    "Digital Business Lecturer",
-    "Creative Builder"
-  ],
-  location: "Indonesia",
-  specialization: [
-    "Laravel Development",
-    "Web Architecture",
-    "UI/UX",
-    "Digital Transformation",
-    "Product Development"
-  ]
-};
-
-while(anwar.isAlive){
-   anwar.build();
-   anwar.learn();
-   anwar.teach();
+    education: "Master of Digital Transformation Intelligence",
+    currentRole: "Digital Business Lecturer",
+    previousRole: "Full Stack Development Technical Lead",
+    expertise: [
+        "Laravel Architecture",
+        "Backend Engineering",
+        "Frontend Development",
+        "UI/UX Design",
+        "Product Development",
+        "Digital Transformation"
+    ]
 }
 ```
 
----
+I build systems that combine engineering, business understanding, and user experience.
 
-# ✏️ About Me
-
-I’m a developer who loves building products that combine:
-
-- scalable backend systems
-- beautiful frontend experiences
-- business-driven solutions
-- digital transformation strategy
-- educational innovation
-
-Started as a **Junior Web Developer**, grew into a **Full Stack Developer**, became a **Technical Lead**, and now also work as a **Digital Business Lecturer** while continuing to build software products.
-
-I enjoy creating websites that feel different — especially clean, interactive, and doodle-inspired experiences.
+My journey started as a junior developer, evolved into full stack engineering, expanded into technical leadership, and now continues in academia where I teach technology while actively building products.
 
 ---
 
-# 🚀 Career Journey
+## Professional Experience
 
-## Junior Web Developer  
-**PT Syncore Indonesia**  
-`2021`
+### Full Stack Development Technical Lead — Kiddu.id
+**2022 — 2024**
 
-- Laravel development  
-- Wordpress development  
-- API integration  
-- Website maintenance  
-- Bug fixing  
+- Built product architecture from scratch  
+- Led development execution  
+- Requirement analysis  
+- Managed development workflow  
+- VPS infrastructure planning  
+- Product QA  
 
 ---
 
-## Full Stack Web Developer  
-**PT Super Group Indonesia (SuperHelper)**  
-`2021 - 2022`
+### Full Stack Developer — PT Super Group Indonesia
+**2021 — 2022**
 
-- Web application development  
-- API service development  
+- Laravel application development  
+- API development  
 - System maintenance  
 - Feature implementation  
-- Cross-team collaboration  
 
 ---
 
-## Full Stack Development Technical Lead  
-**Kiddu.id**  
-`2022 - 2024`
+### Junior Web Developer — PT Syncore Indonesia
+**2021**
 
-Built product from scratch:
-
-- Product architecture planning  
-- Requirement analysis  
-- Team task management  
-- VPS/server planning  
-- Quality assurance  
-- Full development execution  
+- Laravel development  
+- WordPress development  
+- Bug fixing  
+- Maintenance  
 
 ---
 
-## Digital Business Lecturer  
-**Universitas Sugeng Hartono**  
-`2025 - Present`
+### Lecturer — Universitas Sugeng Hartono
+**2025 — Present**
 
 Teaching:
 
 - Web Development  
 - Mobile Development  
-- UI/UX  
 - Cloud Computing  
 - Database Design  
-- Digital Information System  
-- Network Architecture  
+- UI/UX  
+- Digital Systems  
 
 ---
 
-# 🎓 Education
+## Education
 
-### IST Akprind Yogyakarta
-**Bachelor of Informatics Engineering**  
-`2017 - 2021`
+### Master Degree  
+Digital Transformation Intelligence  
+**GPA: 3.73**
 
-GPA: **3.52**
-
----
-
-### Master Degree
-**Digital Transformation Intelligence**  
-`2022 - 2024`
-
-GPA: **3.73**
+### Bachelor Degree  
+Informatics Engineering  
+**GPA: 3.52**
 
 ---
 
-# 📚 Publications
-
-- Chatbot AI Layanan Informasi  
-- Prompt Engineering  
-- Strategi Marketing yang Efektif  
-
----
-
-# 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,nodejs"/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind"/>
-
-### Tools
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,javascript,typescript,react,nextjs,nodejs,tailwind,figma,docker,git"/>
 
 </div>
 
 ---
 
-# 🔥 Current Focus
+## Featured Focus
 
-- Building startup products  
-- AI integration  
-- Modern Laravel architecture  
-- Creative frontend engineering  
-- Doodle-style UI design  
-- Educational technology  
+- Product Engineering  
+- SaaS Development  
+- Laravel Ecosystem  
+- Creative Frontend Development  
+- AI Integration  
+- EdTech Innovation  
 
 ---
 
-# 📊 GitHub Stats
+## Open Source & Contributions
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sorata-sensei&show_icons=true&theme=default&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sorata-sensei&show_icons=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorata-sensei&layout=compact&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sorata-sensei&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -188,35 +141,38 @@ GPA: **3.73**
 
 ---
 
-# ✍️ Doodle Philosophy
+## Publications
+
+- Chatbot AI Layanan Informasi  
+- Prompt Engineering  
+- Strategi Marketing yang Efektif  
+
+---
+
+## Philosophy
 
 ```txt
-   ________________________
-  /                        /
- /   CODE                  /
-/    CREATE               /
-\    TEACH                \
- \    BUILD               /
-  \______________________/
-
+Build.
+Teach.
+Lead.
+Create.
+Repeat.
 ```
 
 ---
 
-# 🌐 Connect With Me
+## Connect
 
-Portfolio: https://www.anwarfauzi.my.id/  
+🌐 Portfolio: https://www.anwarfauzi.my.id/
 
-LinkedIn: https://linkedin.com/in/muhammad-anwar-fauzi/  
+💼 LinkedIn: https://linkedin.com/in/muhammad-anwar-fauzi/
 
-Email: muhammadanwarfauzi1999@gmail.com  
+📧 Email: muhammadanwarfauzi1999@gmail.com
 
 ---
 
 <div align="center">
 
-### "I build systems that are functional, scalable, and visually memorable."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2f2f2,100:ffffff&height=120&section=footer"/>
+*"Building technology that is scalable, meaningful, and visually memorable."*
 
 </div>
