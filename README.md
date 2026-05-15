@@ -4,7 +4,7 @@
 
 ### Full Stack Engineer • Former Technical Lead • Lecturer • Product Builder
 
-<img src="https://raw.githubusercontent.com/sorata-sensei/sorata-sensei/main/assets/profile.png" width="220" style="border-radius:50%;" />
+<img src="[https://raw.githubusercontent.com/sorata-sensei/sorata-sensei/main/assets/profile.png](https://avatars.githubusercontent.com/u/52536164?v=4&size=64)" width="220" style="border-radius:50%;" />
 
 <br/>
 
