@@ -2,7 +2,7 @@
 
 ## Muhammad Anwar Fauzi
 
-### Full Stack Engineer • Former Technical Lead • Lecturer
+### Full Stack Engineer • EX Lecturer
 
 <img src="https://anwarfauzi.my.id/assets/images/me.png" width="220"/>
 
