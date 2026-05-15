@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Muhammad%20Anwar%20Fauzi&fontColor=000000&fontSize=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffffff,100:f2f2f2&height=180&section=header&text=Muhammad%20Anwar%20Fauzi&fontSize=38&fontColor=000000&animation=fadeIn"/>
 
 ### Full Stack Engineer • Former Technical Lead • Lecturer
 
